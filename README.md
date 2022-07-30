@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 I am an AI-ML enthusiast from India.
 
-<img src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq"/>via GIPHY</a></p>
-
 - :telescope: I’m a senior at Symbiosis Institute of Technology, Pune.
 
 - :seedling: Exploring Machine Learning and Deep Learning.
