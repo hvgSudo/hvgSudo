@@ -11,12 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: harshvardhanguleria@gmail.com 
 -->
 
-
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -37,15 +31,15 @@ Here are some ideas to get you started:
 
 I am an AI-ML enthusiast from India.
 
-<img src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq"/>via GIPHY</a></p>
+<img src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq"/>via GIPHY</a></p>
 
 - :telescope: I’m a senior at Symbiosis Institute of Technology, Pune.
 
 - :seedling: Exploring Machine Learning and Deep Learning.
 
-- :zap: In my free time, I play guitar and games and solve problems on LeetCode and Hackerearth.
+- :zap: In my free time, I play guitar, games and solve problems on LeetCode and Hackerearth.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-guleria/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-guleria/)
 
 ---
 
