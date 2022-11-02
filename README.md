@@ -33,7 +33,7 @@ I am an AI-ML enthusiast from India.
 
 - :seedling: Exploring Machine Learning and Deep Learning.
 
-- :zap: In my free time, I play guitar, watch anime and solve problems on LeetCode.
+- :zap: In my free time, I play guitar, watch anime and solve problems on Hackerrank, LeetCode and Codechef.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-guleria/)
 
