@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an AI-ML enthusiast from India.
+I am an AI-ML enthusiast.
 
-- :telescope: I’m a senior at Symbiosis Institute of Technology, Pune.
+- :telescope: I’m a graduate engineer at Symbiosis Institute of Technology, Pune.
 
 - :seedling: Exploring Machine Learning and Deep Learning.
 
