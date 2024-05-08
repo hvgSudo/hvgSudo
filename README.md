@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am an AI-ML enthusiast.
+I am an AI-ML and Cyber Security enthusiast.
 
-- :telescope: I’m a graduate engineer at Symbiosis Institute of Technology, Pune.
+- :telescope: I’m a graduate engineer from Symbiosis Institute of Technology, Pune pursuing Masters from National Institute of Technology, Delhi.
 
 - :seedling: Exploring Machine Learning and Deep Learning.
 
-- :zap: In my free time, I play guitar, watch anime and solve problems on Hackerrank, LeetCode and Codechef.
+- :zap: In my free time, I play guitar, watch anime and improve my skills to grow in my career.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-guleria/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vardhan-guleria/)
 
 ---
 
